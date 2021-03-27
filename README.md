@@ -5,3 +5,5 @@ Collection of various simple Python projects which I implemented to further expl
 
 2. Countdown Timer: This uses a function which takes in an input of seconds and returns a countdown timer till 1. Once the timer is up, it notifies the user that the time is up.
 
+3. Random Password Generator: The user inputs the number of passwords to be generated and the number of characters these passwords should contain. The program returns strong passwords as output.
+
